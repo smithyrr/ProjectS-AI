@@ -24,7 +24,7 @@ Distributed under the MIT License. See **`LICENSE`** for more information.
 
 ## Git Repo
 
-[GitHub - smithyrr/ProjectS](https://github.com/smithyrr/ProjectS)
+[GitHub - smithyrr/ProjectS]([https://github.com/smithyrr/ProjectS](https://github.com/smithyrr/ProjectS-AI)
 
 [Project Management Board](ProjectS-AI%20Personal%20Assistant%20835bb736716e40439ec7a38bc98926b4/Project%20Management%20Board%205aaa37365f9647bba7c87ed94f4bbe6a.md)
 
